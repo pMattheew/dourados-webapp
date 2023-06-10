@@ -17,6 +17,7 @@ export default component$(() => {
       <head>
         <meta charSet="utf-8" />
         <link rel="manifest" href="/manifest.json" />
+        <link rel="stylesheet" href="/node_modules/animate.css/animate.min.css"></link>
         <RouterHead />
       </head>
       <body lang="en">
