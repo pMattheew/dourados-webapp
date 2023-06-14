@@ -7,7 +7,7 @@
 @tailwind utilities;
 
 :root {
-  --animate-delay: 0.05s
+  --animate-delay: 0.05s !important
 }
 
 @layer components {
